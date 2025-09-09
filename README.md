@@ -3,7 +3,7 @@
 A 3D racing game for Windows written in **C/C++** using **OpenGL** and **GLUT**.  
 The game loads car and track meshes exported from **Blender** (OBJ/MTL), renders them with a simple shader pipeline, and times your laps. Your **chosen car** and **best lap time** are saved in `config.txt`.
 
-[<img src="pics/1.PNG" width="400"/>](pics/1.PNG)
+[<img src="pics/1.PNG" width="600"/>](pics/1.PNG)
 
 ## Features
 
